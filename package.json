@@ -1,0 +1,27 @@
+{
+  "name": "oceans",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebof1223/Oceans.git"
+  },
+  "keywords": [],
+  "author": "Erwin Bofetiado <erwinjbofetiado@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebof1223/Oceans/issues"
+  },
+  "homepage": "https://github.com/ebof1223/Oceans#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  },
+  "sourceType": "module",
+  "dependencies": {
+    "three": "^0.132.2"
+  }
+}
